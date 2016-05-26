@@ -1,5 +1,6 @@
 package com.kiitanakala.maps_application;
 
+import android.graphics.Camera;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 
@@ -9,6 +10,8 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import java.util.ArrayList;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
@@ -37,10 +40,21 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     @Override
     public void onMapReady(GoogleMap googleMap) {
         mMap = googleMap;
+        ArrayList<LatLng> listLng = new ArrayList<LatLng>();
+        listLng.add(new LatLng(38.9149207,-77.2213592));
+        listLng.add(new LatLng(38.8149207,-77.2213592));
+        listLng.add(new LatLng(38.7149207,-77.2213592));
+        listLng.add(new LatLng(38.5149207,-77.2213592));
+        listLng.add(new LatLng(38.6149207,-77.2213592));
+        listLng.add(new LatLng(38.93249207,-77.2213592));
+        listLng.add(new LatLng(38.3349207,-77.2213592));
 
         // Add a marker in Sydney and move the camera
-        LatLng sydney = new LatLng(-34, 151);
-        mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
-        mMap.moveCamera(CameraUpdateFactory.newLatLng(sydney));
+        for(LatLng a:listLng){
+            mMap.addMarker(new MarkerOptions().position(a));
+        }
+        //mMap.addMarker(new MarkerOptions().position(sydney).title("Marker in Sydney"));
+        mMap.moveCamera(CameraUpdateFactory.zoomTo(10));
+        mMap.moveCamera(CameraUpdateFactory.newLatLng(listLng.get(0)));
     }
 }
