@@ -12,9 +12,13 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Hello World!"
+        android:id="@+id/textView" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:onClick="changetoMap"/>
+        android:onClick="changetoMap"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:text="Press Me"/>
 </RelativeLayout>
