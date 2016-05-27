@@ -30,6 +30,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
         RecyclerView rv = (RecyclerView)findViewById(R.id.recycler);
         LinearLayoutManager llm = new LinearLayoutManager(this);
         rv.setLayoutManager(llm);
+        MerchantAdapter ma = new MerchantAdapter();//modelOBJ
+        rv.setAdapter(ma);
     }
 
 
