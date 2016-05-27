@@ -18,13 +18,15 @@
             tools:text="Name"
             android:paddingRight="4dp"/>
         <TextView
-            android:id="@+id/locationID"
+            android:id="@+id/categoryID"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:textSize="20sp"
-            tools:text="Location"
-            android:paddingLeft="4dp"/>
+            tools:text="Category"
+            android:paddingLeft="4dp"
+            android:paddingBottom="4dp"/>
+
 
     </LinearLayout>
     <LinearLayout
@@ -32,21 +34,23 @@
         android:layout_height="wrap_content"
         android:orientation="horizontal">
         <TextView
-            android:id="@+id/categoryID"
+            android:id="@+id/locationID"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:textSize="20sp"
-            tools:text="Category"
-            android:paddingRight="4dp"/>
-        <TextView
-            android:id="@+id/popularityID"
-            android:layout_width="0dp"
-            android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:textSize="20sp"
-            tools:text="Popularity"
-            android:paddingLeft="4dp"/>
+            tools:text="Location"
+            android:paddingLeft="2dp"
+            android:paddingRight="2dp"/>
+
+        <!--<TextView-->
+            <!--android:id="@+id/popularityID"-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:textSize="20sp"-->
+            <!--tools:text="Popularity"-->
+            <!--android:paddingLeft="4dp"/>-->
 
     </LinearLayout>
 <View

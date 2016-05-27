@@ -8,7 +8,7 @@ public class Merchant implements Comparable {
     public int mTotalTrans;
     
     
-    public Merchant(String name, double longitude, double latitude, String category, String ID){
+    public Merchant(String name, double latitude, double longitude, String category, String ID){
         mName = name;
         mLongitude = longitude ;
         mLatitude = latitude ;
