@@ -457,10 +457,6 @@
         "street number": "316",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Entertainment",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279204,
         "lng": -83.748951
@@ -476,10 +472,6 @@
         "street number": "343",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278196,
         "lng": -83.74578
@@ -495,10 +487,6 @@
         "street number": "114",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.28031,
         "lng": -83.747801
@@ -514,10 +502,6 @@
         "street number": "422",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284682,
         "lng": -83.745071
@@ -533,10 +517,6 @@
         "street number": "401",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.287238,
         "lng": -83.741701
@@ -552,10 +532,6 @@
         "street number": "207",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.28061,
         "lng": -83.746903
@@ -571,10 +547,6 @@
         "street number": "205",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280103,
         "lng": -83.740518
@@ -590,10 +562,6 @@
         "street number": "311",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279201,
         "lng": -83.748262
@@ -609,10 +577,6 @@
         "street number": "618",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274307,
         "lng": -83.734832
@@ -628,10 +592,6 @@
         "street number": "512",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277659,
         "lng": -83.742645
@@ -647,10 +607,6 @@
         "street number": "338",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278082,
         "lng": -83.74104
@@ -666,10 +622,6 @@
         "street number": "222",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279533,
         "lng": -83.741035
@@ -685,10 +637,6 @@
         "street number": "216",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279667,
         "lng": -83.741049
@@ -704,10 +652,6 @@
         "street number": "1100",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282994,
         "lng": -83.735418
@@ -723,10 +667,6 @@
         "street number": "341",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278402,
         "lng": -83.748448
@@ -742,10 +682,6 @@
         "street number": "322",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278702,
         "lng": -83.748891
@@ -761,10 +697,6 @@
         "street number": "231",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279462,
         "lng": -83.74044
@@ -780,10 +712,6 @@
         "street number": "315",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283908,
         "lng": -83.746361
@@ -799,10 +727,6 @@
         "street number": "341",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279529,
         "lng": -83.744275
@@ -818,10 +742,6 @@
         "street number": "326",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278711,
         "lng": -83.748856
@@ -837,10 +757,6 @@
         "street number": "117",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280377,
         "lng": -83.74942
@@ -856,10 +772,6 @@
         "street number": "302",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279399,
         "lng": -83.748923
@@ -875,10 +787,6 @@
         "street number": "1204",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27489,
         "lng": -83.734363
@@ -894,10 +802,6 @@
         "street number": "318",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278745,
         "lng": -83.749029
@@ -913,10 +817,6 @@
         "street number": "251",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279638,
         "lng": -83.746347
@@ -932,10 +832,6 @@
         "street number": "1140",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274865,
         "lng": -83.73488
@@ -951,10 +847,6 @@
         "street number": "314",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279199,
         "lng": -83.745193
@@ -970,10 +862,6 @@
         "street number": "216",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282857,
         "lng": -83.746881
@@ -987,10 +875,6 @@
         "state": "MI",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Service",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280955,
         "lng": -83.748915
@@ -1006,10 +890,6 @@
         "street number": "112",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280647,
         "lng": -83.749275
@@ -1025,10 +905,6 @@
         "street number": "341",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.281646,
         "lng": -83.744222
@@ -1042,10 +918,6 @@
         "state": "MI",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279547,
         "lng": -83.743338
@@ -1061,10 +933,6 @@
         "street number": "777",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278809,
         "lng": -83.73975
@@ -1080,10 +948,6 @@
         "street number": "110",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.281035,
         "lng": -83.748958
@@ -1099,10 +963,6 @@
         "street number": "219",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279812,
         "lng": -83.748306
@@ -1118,10 +978,6 @@
         "street number": "328",
         "zip": "48108"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278365,
         "lng": -83.742219
@@ -1137,10 +993,6 @@
         "street number": "715",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278842,
         "lng": -83.740026
@@ -1156,10 +1008,6 @@
         "street number": "1300",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274584,
         "lng": -83.732906
@@ -1175,10 +1023,6 @@
         "street number": "116",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279433,
         "lng": -83.74776
@@ -1194,10 +1038,6 @@
         "street number": "401",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279593,
         "lng": -83.743863
@@ -1213,10 +1053,6 @@
         "street number": "320",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278626,
         "lng": -83.741028
@@ -1232,10 +1068,6 @@
         "street number": "316",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278754,
         "lng": -83.740986
@@ -1251,10 +1083,6 @@
         "street number": "715",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278904,
         "lng": -83.740026
@@ -1270,10 +1098,6 @@
         "street number": "929",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282364,
         "lng": -83.737048
@@ -1289,10 +1113,6 @@
         "street number": "203",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280587,
         "lng": -83.747063
@@ -1308,10 +1128,6 @@
         "street number": "1214",
         "zip": "48103"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27488,
         "lng": -83.734053
@@ -1327,10 +1143,6 @@
         "street number": "407",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284384,
         "lng": -83.74612
@@ -1346,10 +1158,6 @@
         "street number": "341",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279462,
         "lng": -83.744545
@@ -1365,10 +1173,6 @@
         "street number": "226",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279739,
         "lng": -83.748751
@@ -1384,10 +1188,6 @@
         "street number": "16",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278346,
         "lng": -83.741576
@@ -1403,10 +1203,6 @@
         "street number": "217",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.28296,
         "lng": -83.748744
@@ -1422,10 +1218,6 @@
         "street number": "235",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279282,
         "lng": -83.740521
@@ -1441,10 +1233,6 @@
         "street number": "549",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275172,
         "lng": -83.735278
@@ -1460,10 +1248,6 @@
         "street number": "312",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279048,
         "lng": -83.748921
@@ -1479,10 +1263,6 @@
         "street number": "200",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280341,
         "lng": -83.74888
@@ -1498,10 +1278,6 @@
         "street number": "114",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279754,
         "lng": -83.749387
@@ -1517,10 +1293,6 @@
         "street number": "529",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.285732,
         "lng": -83.744627
@@ -1536,10 +1308,6 @@
         "street number": "217",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279687,
         "lng": -83.740475
@@ -1555,10 +1323,6 @@
         "street number": "1327",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275178,
         "lng": -83.732302
@@ -1574,10 +1338,6 @@
         "street number": "546",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.271986,
         "lng": -83.742137
@@ -1593,10 +1353,6 @@
         "street number": "1205",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275147,
         "lng": -83.734288
@@ -1612,10 +1368,6 @@
         "street number": "347",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278268,
         "lng": -83.748481
@@ -1631,10 +1383,6 @@
         "street number": "309",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279205,
         "lng": -83.748245
@@ -1650,10 +1398,6 @@
         "street number": "226",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283022,
         "lng": -83.746664
@@ -1669,10 +1413,6 @@
         "street number": "530",
         "zip": "48109"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275257,
         "lng": -83.741532
@@ -1688,10 +1428,6 @@
         "street number": "221",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280534,
         "lng": -83.746328
@@ -1707,10 +1443,6 @@
         "street number": "505",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279533,
         "lng": -83.742636
@@ -1726,10 +1458,6 @@
         "street number": "1220",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274854,
         "lng": -83.733321
@@ -1745,10 +1473,6 @@
         "street number": "307",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279275,
         "lng": -83.748224
@@ -1764,10 +1488,6 @@
         "street number": "621",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273301,
         "lng": -83.748416
@@ -1783,10 +1503,6 @@
         "street number": "615",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.281456,
         "lng": -83.741495
@@ -1802,10 +1518,6 @@
         "street number": "600",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.2716,
         "lng": -83.741701
@@ -1821,10 +1533,6 @@
         "street number": "401",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27961,
         "lng": -83.743373
@@ -1840,10 +1548,6 @@
         "street number": "300",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279464,
         "lng": -83.748815
@@ -1859,10 +1563,6 @@
         "street number": "505",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279563,
         "lng": -83.742771
@@ -1878,10 +1578,6 @@
         "street number": "327",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278769,
         "lng": -83.748487
@@ -1897,10 +1593,6 @@
         "street number": "204",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282578,
         "lng": -83.746965
@@ -1916,10 +1608,6 @@
         "street number": "210",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280108,
         "lng": -83.748872
@@ -1935,10 +1623,6 @@
         "street number": "919",
         "zip": "48109"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275712,
         "lng": -83.737159
@@ -1954,10 +1638,6 @@
         "street number": "209",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282817,
         "lng": -83.747406
@@ -1973,10 +1653,6 @@
         "street number": "1220",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274726,
         "lng": -83.733287
@@ -1992,10 +1668,6 @@
         "street number": "215",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282954,
         "lng": -83.748835
@@ -2011,10 +1683,6 @@
         "street number": "625",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273602,
         "lng": -83.748672
@@ -2030,10 +1698,6 @@
         "street number": "605",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277945,
         "lng": -83.741742
@@ -2049,10 +1713,6 @@
         "street number": "115",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279422,
         "lng": -83.749435
@@ -2068,10 +1728,6 @@
         "street number": "1101",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275125,
         "lng": -83.735658
@@ -2087,10 +1743,6 @@
         "street number": "215",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279789,
         "lng": -83.740494
@@ -2106,10 +1758,6 @@
         "street number": "115",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.28035,
         "lng": -83.749351
@@ -2125,10 +1773,6 @@
         "street number": "336",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278172,
         "lng": -83.741048
@@ -2144,10 +1788,6 @@
         "street number": "114",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277732,
         "lng": -83.747856
@@ -2163,10 +1803,6 @@
         "street number": "1208",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274881,
         "lng": -83.734189
@@ -2182,10 +1818,6 @@
         "street number": "201",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282538,
         "lng": -83.748769
@@ -2201,10 +1833,6 @@
         "street number": "812",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273136,
         "lng": -83.738739
@@ -2220,10 +1848,6 @@
         "street number": "414",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277422,
         "lng": -83.74911
@@ -2239,10 +1863,6 @@
         "street number": "112",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bar",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279758,
         "lng": -83.749318
@@ -2258,10 +1878,6 @@
         "street number": "617",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273325,
         "lng": -83.746203
@@ -2277,10 +1893,6 @@
         "street number": "740",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.269657,
         "lng": -83.739877
@@ -2296,10 +1908,6 @@
         "street number": "207",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279669,
         "lng": -83.746946
@@ -2315,10 +1923,6 @@
         "street number": "211",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280045,
         "lng": -83.748275
@@ -2334,10 +1938,6 @@
         "street number": "123",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279733,
         "lng": -83.747492
@@ -2353,10 +1953,6 @@
         "street number": "810",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.271567,
         "lng": -83.740792
@@ -2372,10 +1968,6 @@
         "street number": "516",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277695,
         "lng": -83.742448
@@ -2391,10 +1983,6 @@
         "street number": "1220",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274875,
         "lng": -83.733476
@@ -2410,10 +1998,6 @@
         "street number": "204",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280207,
         "lng": -83.74892
@@ -2429,10 +2013,6 @@
         "street number": "419",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279539,
         "lng": -83.743089
@@ -2446,10 +2026,6 @@
         "state": "MI",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275189,
         "lng": -83.732448
@@ -2465,10 +2041,6 @@
         "street number": "207",
         "zip": "48109"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279862,
         "lng": -83.736752
@@ -2484,10 +2056,6 @@
         "street number": "116",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.28093,
         "lng": -83.748879
@@ -2503,10 +2071,6 @@
         "street number": "600",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273833,
         "lng": -83.749329
@@ -2522,10 +2086,6 @@
         "street number": "1511",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273863,
         "lng": -83.728564
@@ -2541,10 +2101,6 @@
         "street number": "207",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280201,
         "lng": -83.748442
@@ -2560,10 +2116,6 @@
         "street number": "514",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280164,
         "lng": -83.742188
@@ -2579,10 +2131,6 @@
         "street number": "328",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278618,
         "lng": -83.74892
@@ -2598,10 +2146,6 @@
         "street number": "1209",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275173,
         "lng": -83.734103
@@ -2617,10 +2161,6 @@
         "street number": "601",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.271682,
         "lng": -83.741049
@@ -2636,10 +2176,6 @@
         "street number": "214",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280007,
         "lng": -83.748809
@@ -2655,10 +2191,6 @@
         "street number": "216",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279863,
         "lng": -83.747577
@@ -2674,10 +2206,6 @@
         "street number": "417",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279537,
         "lng": -83.743232
@@ -2691,10 +2219,6 @@
         "state": "MI",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279681,
         "lng": -83.748009
@@ -2710,10 +2234,6 @@
         "street number": "211",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282809,
         "lng": -83.748695
@@ -2729,10 +2249,6 @@
         "street number": "619",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274266,
         "lng": -83.735555
@@ -2748,10 +2264,6 @@
         "street number": "407",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284308,
         "lng": -83.746096
@@ -2767,10 +2279,6 @@
         "street number": "615",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277964,
         "lng": -83.741209
@@ -2786,10 +2294,6 @@
         "street number": "336",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27815,
         "lng": -83.741092
@@ -2805,10 +2309,6 @@
         "street number": "613",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277958,
         "lng": -83.741272
@@ -2824,10 +2324,6 @@
         "street number": "505",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279532,
         "lng": -83.742713
@@ -2843,10 +2339,6 @@
         "street number": "814",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.271454,
         "lng": -83.740794
@@ -2862,10 +2354,6 @@
         "street number": "1315",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27514,
         "lng": -83.732601
@@ -2881,10 +2369,6 @@
         "street number": "302",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279164,
         "lng": -83.741005
@@ -2900,10 +2384,6 @@
         "street number": "1201",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275146,
         "lng": -83.734433
@@ -2919,10 +2399,6 @@
         "street number": "300",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283366,
         "lng": -83.746252
@@ -2938,10 +2414,6 @@
         "street number": "315",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279081,
         "lng": -83.748248
@@ -2957,10 +2429,6 @@
         "street number": "402",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280886,
         "lng": -83.743721
@@ -2976,10 +2444,6 @@
         "street number": "800",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.271734,
         "lng": -83.740853
@@ -2995,10 +2459,6 @@
         "street number": "314",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283631,
         "lng": -83.746124
@@ -3014,10 +2474,6 @@
         "street number": "615",
         "zip": "48109"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274456,
         "lng": -83.735386
@@ -3033,10 +2489,6 @@
         "street number": "619",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277935,
         "lng": -83.741223
@@ -3052,10 +2504,6 @@
         "street number": "522",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277651,
         "lng": -83.742252
@@ -3071,10 +2519,6 @@
         "street number": "122",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280316,
         "lng": -83.747554
@@ -3090,10 +2534,6 @@
         "street number": "211",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279696,
         "lng": -83.746792
@@ -3109,10 +2549,6 @@
         "street number": "312",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278872,
         "lng": -83.740959
@@ -3128,10 +2564,6 @@
         "street number": "324",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278518,
         "lng": -83.740996
@@ -3147,10 +2579,6 @@
         "street number": "510",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279245,
         "lng": -83.742572
@@ -3166,10 +2594,6 @@
         "street number": "407",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284347,
         "lng": -83.746127
@@ -3185,10 +2609,6 @@
         "street number": "310",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Entertainment",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278936,
         "lng": -83.741004
@@ -3204,10 +2624,6 @@
         "street number": "215",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279779,
         "lng": -83.740586
@@ -3223,10 +2639,6 @@
         "street number": "1140",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274838,
         "lng": -83.734805
@@ -3242,10 +2654,6 @@
         "street number": "1329",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27518,
         "lng": -83.732142
@@ -3261,10 +2669,6 @@
         "street number": "709",
         "zip": "48105"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278774,
         "lng": -83.740316
@@ -3280,10 +2684,6 @@
         "street number": "205",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279602,
         "lng": -83.747067
@@ -3299,10 +2699,6 @@
         "street number": "214",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282784,
         "lng": -83.746949
@@ -3318,10 +2714,6 @@
         "street number": "336",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278206,
         "lng": -83.742225
@@ -3337,10 +2729,6 @@
         "street number": "300",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279226,
         "lng": -83.741027
@@ -3356,10 +2744,6 @@
         "street number": "563",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274412,
         "lng": -83.748906
@@ -3375,10 +2759,6 @@
         "street number": "808",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.271601,
         "lng": -83.740882
@@ -3394,10 +2774,6 @@
         "street number": "311",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279095,
         "lng": -83.745873
@@ -3413,10 +2789,6 @@
         "street number": "410",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284336,
         "lng": -83.746863
@@ -3432,10 +2804,6 @@
         "street number": "407",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284413,
         "lng": -83.746298
@@ -3451,10 +2819,6 @@
         "street number": "611",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274567,
         "lng": -83.73555
@@ -3470,10 +2834,6 @@
         "street number": "207",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282325,
         "lng": -83.746912
@@ -3489,10 +2849,6 @@
         "street number": "700",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.270402,
         "lng": -83.740377
@@ -3508,10 +2864,6 @@
         "street number": "1203",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275145,
         "lng": -83.734356
@@ -3527,10 +2879,6 @@
         "street number": "221",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283106,
         "lng": -83.748584
@@ -3546,10 +2894,6 @@
         "street number": "334",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278236,
         "lng": -83.742255
@@ -3565,10 +2909,6 @@
         "street number": "113",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279438,
         "lng": -83.749329
@@ -3584,10 +2924,6 @@
         "street number": "611",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274451,
         "lng": -83.734417
@@ -3603,10 +2939,6 @@
         "street number": "215",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279926,
         "lng": -83.74827
@@ -3622,10 +2954,6 @@
         "street number": "217",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279873,
         "lng": -83.748404
@@ -3641,10 +2969,6 @@
         "street number": "110",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280327,
         "lng": -83.748073
@@ -3660,10 +2984,6 @@
         "street number": "340",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278023,
         "lng": -83.740983
@@ -3679,10 +2999,6 @@
         "street number": "902",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.270785,
         "lng": -83.740803
@@ -3698,10 +3014,6 @@
         "street number": "314",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279082,
         "lng": -83.739812
@@ -3717,10 +3029,6 @@
         "street number": "303",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279369,
         "lng": -83.748235
@@ -3736,10 +3044,6 @@
         "street number": "301",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283376,
         "lng": -83.746063
@@ -3755,10 +3059,6 @@
         "street number": "208",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.282705,
         "lng": -83.74707
@@ -3774,10 +3074,6 @@
         "street number": "208",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280155,
         "lng": -83.748834
@@ -3793,10 +3089,6 @@
         "street number": "103",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279691,
         "lng": -83.748178
@@ -3812,10 +3104,6 @@
         "street number": "411",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.280515,
         "lng": -83.743481
@@ -3831,10 +3119,6 @@
         "street number": "337",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.278493,
         "lng": -83.748296
@@ -3850,10 +3134,6 @@
         "street number": "304",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279125,
         "lng": -83.74082
@@ -3869,10 +3149,6 @@
         "street number": "317",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283813,
         "lng": -83.74748
@@ -3888,10 +3164,6 @@
         "street number": "629",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurant",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273965,
         "lng": -83.735536
@@ -3907,10 +3179,6 @@
         "street number": "203",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279715,
         "lng": -83.747099
@@ -3926,10 +3194,6 @@
         "street number": "1112",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274827,
         "lng": -83.735162
@@ -3945,10 +3209,6 @@
         "street number": "306",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279215,
         "lng": -83.749043
@@ -3964,10 +3224,6 @@
         "street number": "605",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.273959,
         "lng": -83.749028
@@ -3983,10 +3239,6 @@
         "street number": "1207",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275148,
         "lng": -83.734212
@@ -4002,10 +3254,6 @@
         "street number": "213",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279946,
         "lng": -83.747049
@@ -4021,10 +3269,6 @@
         "street number": "220",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279836,
         "lng": -83.748972
@@ -4040,10 +3284,6 @@
         "street number": "311",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Entertainment",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.279647,
         "lng": -83.745598
@@ -4059,10 +3299,6 @@
         "street number": "1106",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27486,
         "lng": -83.735376
@@ -4078,10 +3314,6 @@
         "street number": "1104",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283009,
         "lng": -83.735328
@@ -4097,10 +3329,6 @@
         "street number": "504",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275908,
         "lng": -83.749099
@@ -4116,10 +3344,6 @@
         "street number": "325",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.283959,
         "lng": -83.747414
@@ -4135,10 +3359,6 @@
         "street number": "101",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Services",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.281593,
         "lng": -83.748926
@@ -4154,10 +3374,6 @@
         "street number": "1119",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Bars",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.275162,
         "lng": -83.734922
@@ -4173,10 +3389,6 @@
         "street number": "621",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.274241,
         "lng": -83.734272
@@ -4192,10 +3404,6 @@
         "street number": "310",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Entertainment",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.27889,
         "lng": -83.742378
@@ -4211,10 +3419,6 @@
         "street number": "342",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.277968,
         "lng": -83.740927
@@ -4230,10 +3434,6 @@
         "street number": "407",
         "zip": "48104"
       },
-<<<<<<< HEAD
-      "category": "Restaurants",
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "geocode": {
         "lat": 42.284355,
         "lng": -83.746184
@@ -19981,11 +19181,7 @@
         "street_number": "1545",
         "zip": "49107"
       },
-<<<<<<< HEAD
-      "category": "Retail",
-=======
       "category": "technology",
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
       "creation_date": "2016-02-20",
       "geocode": {
         "lat": 0,
@@ -68517,1116 +67713,6 @@
         "lng": 0
       },
       "name": "merch"
-<<<<<<< HEAD
-    },
-    {
-      "_id": "57472d738a710f8e12324eea",
-      "address": {
-        "city": "Columbia",
-        "state": "MD",
-        "street_name": "Little Patuxent",
-        "street_number": "10300",
-        "zip": "21044"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Chipotle Mexican Grill"
-    },
-    {
-      "_id": "574731718a710f8e12324eec",
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "McDonalds"
-    },
-    {
-      "_id": "574731a08a710f8e12324eed",
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Wendys"
-    },
-    {
-      "_id": "574731b58a710f8e12324eee",
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Five Guys"
-    },
-    {
-      "_id": "574731cb8a710f8e12324eef",
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Shake Shack"
-    },
-    {
-      "_id": "574731dd8a710f8e12324ef0",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "AMC"
-    },
-    {
-      "_id": "574731ec8a710f8e12324ef1",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Bowling"
-    },
-    {
-      "_id": "574731f28a710f8e12324ef2",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Bowling"
-    },
-    {
-      "_id": "574732428a710f8e12324ef3",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Ice Skating"
-    },
-    {
-      "_id": "574732508a710f8e12324ef4",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Amusement Park"
-    },
-    {
-      "_id": "574732a98a710f8e12324ef5",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Karaoke"
-    },
-    {
-      "_id": "574732e38a710f8e12324ef6",
-      "category": "Entertainment",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Escape Room"
-    },
-    {
-      "_id": "574733118a710f8e12324ef7",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "H&M"
-    },
-    {
-      "_id": "574733218a710f8e12324ef8",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Macys"
-    },
-    {
-      "_id": "574733478a710f8e12324ef9",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Banana Republic"
-    },
-    {
-      "_id": "574733f18a710f8e12324efa",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Under Armour"
-    },
-    {
-      "_id": "574733fa8a710f8e12324efb",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "American Eagle"
-    },
-    {
-      "_id": "5747340b8a710f8e12324efc",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Tommy Hilfiger"
-    },
-    {
-      "_id": "574734158a710f8e12324efd",
-      "category": "Clothes",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Coach"
-    },
-    {
-      "_id": "574734248a710f8e12324efe",
-      "category": "Michael Kors",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Coach"
-    },
-    {
-      "_id": "5747343c8a710f8e12324eff",
-      "category": "Levi Strauss & Co.",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Coach"
-    },
-    {
-      "_id": "574734478a710f8e12324f00",
-      "category": "Gap",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Coach"
-    },
-    {
-      "_id": "574734968a710f8e12324f01",
-      "category": "bills",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Rent"
-    },
-    {
-      "_id": "574734aa8a710f8e12324f02",
-      "category": "bills",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Electricity"
-    },
-    {
-      "_id": "574734b48a710f8e12324f03",
-      "category": "bills",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Water/Heating"
-    },
-    {
-      "_id": "57474bdccb410085213e72b2",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Groceries",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Walmart"
-    },
-    {
-      "_id": "57474d10cb410085213e72b5",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Rent",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Rent"
-    },
-    {
-      "_id": "57474d32cb410085213e72b6",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Utilities",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Edison"
-    },
-    {
-      "_id": "57474d47cb410085213e72b7",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Insurance",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Geico"
-    },
-    {
-      "_id": "57474d5ccb410085213e72b8",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Water",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Water bill"
-    },
-    {
-      "_id": "57474d75cb410085213e72b9",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Costco",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Costco gas"
-    },
-    {
-      "_id": "57474d97cb410085213e72ba",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Coldstone"
-    },
-    {
-      "_id": "57474dabcb410085213e72bb",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Other",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Amazon"
-    },
-    {
-      "_id": "57474dcccb410085213e72bc",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Del Taco"
-    },
-    {
-      "_id": "57474f1acb410085213e72be",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "McDonalds"
-    },
-    {
-      "_id": "57474f2acb410085213e72bf",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Burger King"
-    },
-    {
-      "_id": "57474f41cb410085213e72c0",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Taco Bell"
-    },
-    {
-      "_id": "57474f51cb410085213e72c1",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Del Taco"
-    },
-    {
-      "_id": "57474f75cb410085213e72c2",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Coldstone"
-    },
-    {
-      "_id": "57474ff0cb410085213e72ce",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Wendy's"
-    },
-    {
-      "_id": "57475001cb410085213e72cf",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Tysons Mall"
-    },
-    {
-      "_id": "5747500fcb410085213e72d0",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Bar"
-    },
-    {
-      "_id": "57475018cb410085213e72d1",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "iTunes"
-    },
-    {
-      "_id": "57475026cb410085213e72d2",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Kay Jewelers"
-    },
-    {
-      "_id": "57475032cb410085213e72d3",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Gas station"
-    },
-    {
-      "_id": "5747503ecb410085213e72d4",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Art store"
-    },
-    {
-      "_id": "5747504fcb410085213e72d5",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Club"
-    },
-    {
-      "_id": "57475064cb410085213e72d6",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "BMW"
-    },
-    {
-      "_id": "5747508fcb410085213e72d7",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Tesla"
-    },
-    {
-      "_id": "574750a5cb410085213e72d8",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Bird"
-    },
-    {
-      "_id": "574750afcb410085213e72d9",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Dog"
-    },
-    {
-      "_id": "574750bdcb410085213e72da",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Dog food"
-    },
-    {
-      "_id": "574750c5cb410085213e72db",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Cat food"
-    },
-    {
-      "_id": "574750d0cb410085213e72dc",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Xbox"
-    },
-    {
-      "_id": "574750d7cb410085213e72dd",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Target"
-    },
-    {
-      "_id": "574750dfcb410085213e72de",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Concert"
-    },
-    {
-      "_id": "574750e7cb410085213e72df",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Redskins"
-    },
-    {
-      "_id": "574750f1cb410085213e72e0",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Nationals"
-    },
-    {
-      "_id": "574750facb410085213e72e1",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Bosley"
-    },
-    {
-      "_id": "57475105cb410085213e72e2",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Diamond Jewelers"
-    },
-    {
-      "_id": "57475111cb410085213e72e3",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Guitar"
-    },
-    {
-      "_id": "57475118cb410085213e72e4",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Scam"
-    },
-    {
-      "_id": "5747511fcb410085213e72e5",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "iPhone"
-    },
-    {
-      "_id": "57475128cb410085213e72e6",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Credit card"
-    },
-    {
-      "_id": "57475131cb410085213e72e7",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Chocolate"
-    },
-    {
-      "_id": "57475139cb410085213e72e8",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Phone"
-    },
-    {
-      "_id": "57475145cb410085213e72e9",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Fish"
-    },
-    {
-      "_id": "57475150cb410085213e72ea",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Blender"
-    },
-    {
-      "_id": "57475158cb410085213e72eb",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Rat"
-    },
-    {
-      "_id": "57475163cb410085213e72ec",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "PS4"
-    },
-    {
-      "_id": "5747516ccb410085213e72ed",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "MLB"
-    },
-    {
-      "_id": "57475177cb410085213e72ee",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Front row seats"
-    },
-    {
-      "_id": "57475183cb410085213e72ef",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Nats"
-    },
-    {
-      "_id": "5747518ccb410085213e72f0",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Home App"
-    },
-    {
-      "_id": "57475193cb410085213e72f1",
-      "address": {
-        "city": "McLean",
-        "state": "VA",
-        "street_name": "Blah Drive",
-        "street_number": "1",
-        "zip": "00000"
-      },
-      "category": "Food",
-      "creation_date": "2016-05-26",
-      "geocode": {
-        "lat": 0,
-        "lng": 0
-      },
-      "name": "Dance"
-=======
->>>>>>> e44a1ea4cc031cc0675f31565d88678d7df02e92
     }
   ]
 }
