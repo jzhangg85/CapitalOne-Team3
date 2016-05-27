@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--splash screen-->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/background"
+    android:orientation="vertical"
+    android:background="#4D6D8D"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:baselineAligned="true"
+    android:gravity="center"
+    android:weightSum="1">
+
+    <!--pin icon By Mert Güler from the Noun Project-->
+    <ImageView
+        android:id="@+id/pin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pin2"
+        android:layout_gravity="center_horizontal" />
+
+    <android.support.v4.widget.Space
+        android:id="@+id/space"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_weight="0.14" />
+
+    <TextView
+        android:id="@+id/logo"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="belp"
+        android:textColor="#ffffff"
+        android:textSize="60sp"
+        android:layout_marginBottom="30dp"
+        android:gravity="center_horizontal"
+        android:fontFamily="corben"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

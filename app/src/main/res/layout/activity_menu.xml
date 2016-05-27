@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenuActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/menu_header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#46637F">
+
+        <ImageView
+            android:id="@+id/menu_logo"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/pin2"
+            android:paddingBottom="15dp"
+            android:paddingTop="15dp"
+            android:layout_marginLeft="130dp" />
+
+        <TextView
+        android:id="@+id/menu_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="belp"
+        android:textStyle="bold"
+            android:textSize="40sp"
+        android:textColor="#fff"
+            android:layout_gravity="center_vertical"
+            android:gravity="left"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/restaurants"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@drawable/restaurant_background"
+        android:layout_weight="1"
+        android:backgroundTint="#58e9effb"
+        android:backgroundTintMode="src_over">
+
+        <ImageView
+            android:id="@+id/restaurant_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/restaurants"
+            android:padding="20dp"
+            android:layout_marginLeft="25dp" />
+
+        <TextView
+            android:id="@+id/restaurant_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="restaurants"
+            android:textColor="#fff"
+            android:gravity="center_vertical"
+            android:textSize="40dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/retail"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@drawable/retail_background"
+        android:layout_weight="1"
+        android:backgroundTint="#58e9effb"
+        android:backgroundTintMode="src_over">
+
+        <ImageView
+            android:id="@+id/retail_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/retail"
+            android:padding="20dp"
+            android:layout_marginLeft="38dp"
+            android:layout_marginRight="8dp"/>
+
+        <TextView
+            android:id="@+id/retail_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="retail"
+            android:textColor="#fff"
+            android:gravity="center_vertical"
+            android:textSize="40dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/entertainment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="@drawable/entertainment_background"
+        android:layout_weight="1"
+
+        android:backgroundTint="#58e9effb"
+        android:backgroundTintMode="src_over">
+
+        <ImageView
+            android:id="@+id/entertainment_img"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:src="@drawable/entertainment"
+            android:padding="20dp"
+            android:layout_marginLeft="25dp"
+            android:layout_gravity="center_vertical" />
+
+        <TextView
+            android:id="@+id/entertainment_text"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="entertainment"
+            android:textColor="#fff"
+            android:gravity="center_vertical"
+            android:textSize="40dp" />
+
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:id="@+id/services"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:background="@drawable/services_background"-->
+        <!--android:layout_weight="1"-->
+
+        <!--android:backgroundTint="#58e9effb"-->
+        <!--android:backgroundTintMode="src_over">-->
+
+        <!--<ImageView-->
+            <!--android:id="@+id/services_img"-->
+            <!--android:layout_width="99dp"-->
+            <!--android:layout_height="140dp"-->
+            <!--android:src="@drawable/services"-->
+            <!--android:padding="20dp"-->
+            <!--android:layout_marginLeft="25dp"-->
+            <!--android:layout_gravity="center_vertical" />-->
+
+        <!--<TextView-->
+            <!--android:id="@+id/services_text"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:text="services"-->
+            <!--android:textColor="#fff"-->
+            <!--android:gravity="center_vertical"-->
+            <!--android:textSize="40dp" />-->
+
+    <!--</LinearLayout>-->
+
+</LinearLayout>
